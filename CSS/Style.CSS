@@ -4,3 +4,15 @@
 .Amanhã {
     color: darkblue;
 }
+.hyperlink {
+    text-decoration: none;
+}
+h2 a.hyperlink {
+    color: seagreen;
+}
+p {
+    font-size: 20px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
